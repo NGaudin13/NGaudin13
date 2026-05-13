@@ -1,154 +1,129 @@
 ## Hi there 👋
 # Nicolas GAUDIN
 
-### Bioinformatics · Data Engineering · Scientific Software
+# Hi there 👋 I'm Nicolas GAUDIN
 
-Double degree in Bioinformatics/Biology and Application Development & Data Engineering.  
-I work at the intersection of scientific research, data structuring and software development.
+### 🧬 Bioinformatics · 📊 Data Engineering · ⚙️ Scientific Software
 
-My projects focus on:
-- scientific web applications,
-- ETL/data pipelines,
-- biological data integration,
-- API-oriented architectures,
-- AI-assisted data interpretation,
-- and reproducible scientific workflows.
+Double degree in Biology/Bioinformatics and Application Development.  
+I build bridges between scientific research, data structuring and software engineering.
 
 ---
 
-## About Me
+# 👨‍💻 About Me
 
-- Scientific background in biochemistry, molecular biology and computational biology
-- Currently developing data engineering and scientific software projects around biological data
-- Interested in ETL pipelines, APIs, AI-assisted workflows and data structuring
-- Experience with both experimental research and software/data development
-- Focus on pragmatic and reproducible solutions for complex data environments
+- 🔬 Background in biochemistry, molecular biology and computational biology
+- ⚙️ Development of scientific web applications and ETL/data workflows
+- 🧠 AI-assisted structuring and interpretation of heterogeneous scientific data
+- 📦 API-oriented architectures and reproducible pipelines
+- 🧪 Experience in both experimental research and software/data engineering
 
 ---
 
-# Main Projects
+# 🚀 Main Projects
 
-## 🧬 strainlab-symfony
-Scientific web platform for biological data management.
+## 🧬 Scientific Data Platform — STRAINLAB
+Scientific platform for structured biological data management.
 
-Features:
-- strain/sample management
+### Features
+- strain & sample management
 - sequencing & phenotype integration
 - multi-criteria search
-- user rights management
-- file upload/download
-- structured relational database
+- relational database
 - Power BI dashboards
+- Docker deployment
 
-**Stack:** Symfony · PHP · MySQL · Docker
-
----
-
-## ⚙️ bio-data-microservice
-FastAPI microservice dedicated to biological data management and API-oriented workflows.
-
-Features:
-- REST API
-- SQLModel/Pydantic architecture
-- CRUD generation
-- OpenAPI documentation
-- validation workflows
-- staging & structured integration
-
-**Stack:** Python · FastAPI · SQLModel · Pydantic · Alembic
+### Stack
+![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ---
 
-## 🤖 strain-import-agent
-AI-assisted ETL/import workflow for heterogeneous scientific files.
+## 🤖 AI-assisted ETL & Import Microservice
 
-Goals:
-- analyze Excel/CSV scientific files
-- detect and interpret columns
-- propose intelligent mapping
-- categorize information
-- validate before integration
-- integrate structured data through APIs
+FastAPI microservice dedicated to intelligent scientific data integration.
 
-Human-in-the-loop approach with reproducible ETL pipelines.
+### Features
+- Excel/CSV analysis
+- intelligent column mapping
+- staging & validation workflows
+- API integration
+- AI-assisted categorization
+- human-in-the-loop validation
 
-**Stack:** Python · FastAPI · ETL · AI Agents · Pandas
-
----
-
-## 📊 real-estate-etl-datawarehouse-bi
-Academic ETL/DataWarehouse project.
-
-Features:
-- Oracle → ETL → MySQL workflow
-- Apache Hop pipelines
-- DataWarehouse/DataMart modeling
-- Power BI dashboards
-
-**Stack:** Apache Hop · SQL · Power BI
+### Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL-222222?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6A5ACD?style=for-the-badge)
 
 ---
 
-## 🌐 siteVitrine
-Custom scientific showcase website project developed from scratch.
+## 📊 DataWarehouse & BI Project
 
-Features:
-- responsive design
-- admin management
-- editable content
-- scalable architecture
+Decision-making ETL/DataWarehouse architecture project.
 
-**Stack:** PHP · HTML · CSS · JavaScript
+### Stack
+![Apache Hop](https://img.shields.io/badge/Apache_Hop-F58220?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ---
 
-# Technical Skills
+# 🧠 Technical Skills
 
-## Programming & Data
-`Python` `SQL` `PHP` `JavaScript` `Java` `Bash`
-
-## Frameworks & APIs
-`FastAPI` `Symfony` `Vue.js`
-
-## Data Engineering & BI
-`Apache Hop` `Pentaho` `Power BI` `ETL`
-
-## Data Science & AI
-`Pandas` `NumPy` `Scikit-learn` `SciPy`
-`LangChain` `PydanticAI`
-
-## Bioinformatics
-`AlphaFold` `GROMACS` `AMBER`
-`MMGBSA/MMPBSA` `AutoDock-Vina`
-
-## DevOps & Environment
-`Docker` `Git` `Linux` `MySQL`
+## 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
 ---
 
-# Research & Publications
-
-Research experience in:
-- computational biology
-- structural bioinformatics
-- blood-brain barrier transport
-- molecular interaction analysis
-- machine learning applied to biological datasets
-
-6 international scientific publications:
-eLife · PLoS One · FASEB Journal · Molecular Pharmaceutics · Journal of Neuroinflammation
+## ⚙️ Frameworks & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs)
 
 ---
 
-# Current Interests
+## 📊 Data Engineering & AI
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge)
+
+---
+
+## 🧬 Bioinformatics
+![AlphaFold](https://img.shields.io/badge/AlphaFold-FF6F00?style=for-the-badge)
+![GROMACS](https://img.shields.io/badge/GROMACS-00599C?style=for-the-badge)
+![AMBER](https://img.shields.io/badge/AMBER22-B22222?style=for-the-badge)
+![AutoDock](https://img.shields.io/badge/AutoDock_Vina-228B22?style=for-the-badge)
+
+---
+
+# 📚 Research & Publications
+
+- 🧪 Computational biology
+- 🧬 Structural bioinformatics
+- 🧠 Blood-brain barrier transport
+- 🤖 Machine learning applied to biological datasets
+- 📄 6+ international scientific publications
+
+---
+
+# 🌍 Current Interests
 
 - Scientific Data Engineering
 - AI-assisted ETL pipelines
 - API architecture
-- Biological data structuring
 - Reproducible workflows
 - Scientific software engineering
 
 ---
 
-### Science × Data × Software
+### ⚡ Science × Data × Software

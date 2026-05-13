@@ -1,8 +1,6 @@
 ## Hi there 👋
 # Nicolas GAUDIN
 
-# Hi there 👋 I'm Nicolas GAUDIN
-
 ### 🧬 Bioinformatics · 📊 Data Engineering · ⚙️ Scientific Software
 
 Double degree in Biology/Bioinformatics and Application Development.  
